@@ -10,4 +10,6 @@
 功能说明:基于传感器和步数判定是否起来运动，到当判定移动后重置时间，否则到达时间会提醒，可以设置提醒间隔时间、步数和启用时间，还增加了午休功能。
 
 ps:
-搞了半天不会上传到这里😅，去蓝奏云下吧（https://wwms.lanzouo.com/iZzVQ2wrw27i）
+搞了半天不会上传到这里😅，去蓝奏云下吧
+1.（https://wwms.lanzouo.com/iZzVQ2wrw27i）
+2.https://wwms.lanzouo.com/iywme2ws4cyd（省电版，通知栏刷新等略有延迟几分钟）
