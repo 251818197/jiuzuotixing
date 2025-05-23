@@ -14,4 +14,4 @@ ps:
 
 1.（https://wwms.lanzouo.com/iZzVQ2wrw27i）
 
-2.https://wwms.lanzouo.com/iywme2ws4cyd（省电版，通知栏刷新等略有延迟几分钟）
+2.https://wwms.lanzouo.com/iPqSl2wzgc4h（省电版，通知栏刷新等略有延迟几分钟）
